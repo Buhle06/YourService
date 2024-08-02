@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	"dev/yourservice.git/services/yourservice/handlers"
+	"dev/yourservice.git/services/yourservice1/handlers"
 	some_db "dev/yourservice.git/thirdparty/some-db"
 	"fmt"
 	"github.com/ardanlabs/conf/v2"
